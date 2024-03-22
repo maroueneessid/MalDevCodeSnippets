@@ -1,0 +1,1 @@
+This POC only pops a calculator. Unstable technique that may execute payload twice or crash target process. Executing bigger payloads like C2 Beacons needs additional shellcode and execution flow modifications. TODO 
