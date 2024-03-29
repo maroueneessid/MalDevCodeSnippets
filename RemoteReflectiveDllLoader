@@ -3,7 +3,6 @@
 #include <wininet.h>
 #include <winternl.h>
 #pragma comment(lib, "wininet.lib")
-#define TMPFILE "TMP_7801010"
 
 wchar_t* charToWchar(const char* str) {
 	size_t len;
